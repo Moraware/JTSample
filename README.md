@@ -1,6 +1,6 @@
 # Sample JT API 5 Project - C#
 
-This is the simplest possible project you can build using C#. 
+This is the simplest possible JTAPI5 project you can build using C#. 
 
 It was created with these simple steps in Visual Studio Community 2017:
 
