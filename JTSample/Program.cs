@@ -13,7 +13,7 @@ namespace JTSample
         {
             // var DB = "yourdatabasename";
             var JTURL = "https://" + DB + ".moraware.net/";
-            var UID = "api";
+            // var UID = "your username";
             // var PWD = "your password";
 
             Connection conn = new Connection(JTURL + "api.aspx", UID, PWD);
